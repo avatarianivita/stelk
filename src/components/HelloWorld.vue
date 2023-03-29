@@ -11,12 +11,15 @@
     <ul>
       <li><a href="https://goo.gl/maps/maURg8YbDWM7JF9c9" target="_blank" rel="noopener">maps</a></li>
     </ul>
-    <h3>Phone Number</h3>
+    <h3>Contact</h3>
     <p>
-    0411865222
+    you can contact us in here
     </p>
     <ul>
-      <li><a href="0411865222" target="_blank" rel="noopener">number</a></li>
+      <li><a href="https://www.instagram.com/stelkmakassar/" target="_blank" rel="noopener">instagram</a></li>
+      <li><a href="Stelkmks.ypt@gmail.com" target="_blank" rel="noopener">email</a></li>
+      <li><a href="https://www.youtube.com/channel/UCSuUu4RCSjMBiyJopVX-elQ" target="_blank" rel="noopener">youtube</a></li>
+      <li><a href="https://m.facebook.com/stelkmakassar/" target="_blank" rel="noopener">facebook</a></li>
     </ul>
     <h3>Our Website</h3>
     <p>
@@ -41,6 +44,7 @@ export default {
 <style scoped>
 h1{
   margin: 20px 0 0;
+  font-size: ;
 }
 h3 {
   margin: 40px 0 0;
@@ -59,5 +63,8 @@ a {
 }
 p {
   margin: 10px 0 0;
+}
+img {
+  weight: 200;
 }
 </style>
